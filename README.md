@@ -1,2 +1,3 @@
-# alura-typer
-Projeto de estudos jQuery Alura
+# Alura Typer
+
+Projeto de estudos sobre jQuery pela Alura
